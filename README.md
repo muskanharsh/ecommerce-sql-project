@@ -24,3 +24,4 @@ with customers, products, orders and order items.
 - Writing JOIN queries
 - Aggregate functions
 - Real world database design
+Author - Muskan Harsh
